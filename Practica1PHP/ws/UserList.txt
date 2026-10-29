@@ -1,0 +1,25 @@
+{
+    "nombre": "Evaristo",
+    "apellido1": "Mateo ",
+    "apellido2": "Poveda",
+    "contrasena1": "$2y$10$Qe2LgCQbprdVOAfhGRIbr.3xvzQOoMkQmeYc8gHZ8EKhHWw5dcByu",
+    "telefono": "666123456",
+    "genero": "hombre",
+    "correo": "e@e.com"
+}{
+    "nombre": "efvevfv",
+    "apellido1": "vf edv ",
+    "apellido2": "d vfwdfv ",
+    "contrasena1": "$2y$10$U83xcFltcuoA0k5J2pP1eOntiCi3GQDxjnrKyRb3aZP\/btpzZ8Ule",
+    "telefono": "avd adv. ",
+    "genero": "mujer",
+    "correo": "e@e.com"
+}{
+    "nombre": "Ana",
+    "apellido1": "Blasco",
+    "apellido2": "Guirau",
+    "contrasena1": "$2y$10$\/SkHXV8MRIbD4LYEPhdMJ.bUEqjT4Fbimpf3.LGi4klBnf2RjPgZu",
+    "telefono": "660245853",
+    "genero": "mujer",
+    "correo": "e@e.com"
+}
